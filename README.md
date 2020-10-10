@@ -10,4 +10,4 @@ Requires AWS access info, including
 * AWS access key ID
 * AWS secret key
 
-separated by commas in a separate file called 'creds.txt'.
+in that order in a separate file called 'credentials.csv'. See example_credentials.csv for format
